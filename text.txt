@@ -1,5 +1,3 @@
- source folder, install JS- complete three functions
-
 index database w database.js - getDB and putDB , putDB in activity 24 solved
 
 run, then deploy to heroku 
