@@ -1,11 +1,3 @@
-establish scripts in json
-
-then client folder
-
-plugins- required at top
-model 
-rules- outlined in solved of mini project/how to structure plugins
-
 impliment params for src-sw, check node modules- missing one with register route 
 
 
