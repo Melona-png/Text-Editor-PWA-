@@ -1,0 +1,16 @@
+establish scripts in json
+
+then client folder
+
+plugins- required at top
+model 
+rules- outlined in solved of mini project/how to structure plugins
+
+impliment params for src-sw, check node modules- missing one with register route 
+
+
+source folder, install JS- complete three functions
+
+index database w database.js - getDB and putDB , putDB in activity 24 solved
+
+run, then deploy to heroku 
